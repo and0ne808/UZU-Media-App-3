@@ -10,4 +10,8 @@ http://phonegap.com/getstarted/
 
 we can build apps for iOS, Android, and Windows phone using this system.
 
+THE FILE YOU WANT TO EDIT to modify the app is: platforms/browser/index.html
+
+The file structure is a bit confusing, but you can figure it out if you start at the correct index file
+
 -Andrew
